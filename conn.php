@@ -1,7 +1,7 @@
 <?php
 $dbhost='mysql.hostinger.co.uk';
 $dbuser= "u770063538_sagun";
-$dbpassword= "sagunis1";
+$dbpassword= "...";
 $dbname="u770063538_work";
 
 
